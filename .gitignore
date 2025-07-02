@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary or auto-saved files
+*.log
+*.tmp
+~$*
+
+# Word document backups
+*.bak
