@@ -49,7 +49,7 @@ Cinepo is a web-based platform for movie ticket booking that supports:
 > **Course:** Software Engineering and Project Management  
 > **Code:** 18CSC206J  
 > **Institute:** SRM Institute of Science and Technology  
-> **Semester:** 5th Semester (2023)
+> **Semester:** 4th Semester (2023)
 
 ---
 
