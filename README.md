@@ -67,7 +67,14 @@ This project follows the complete software development life cycle:
 
 ---
 
-## 📝 License
+---
 
-This project is for academic and educational use only.  
-Unauthorized reproduction or redistribution is not permitted.
+## 📄 Disclaimer
+
+This software engineering project was created during Semester 4 for the **SEPM (Software Engineering and Project Management)** course.
+
+It is a simulated application designed to demonstrate software architecture, use cases, and UML diagrams.  
+It is **not intended for commercial use or integration into real-world systems**.
+
+© 2023 **Venkat Aditya Vellanki**. All rights reserved.
+
