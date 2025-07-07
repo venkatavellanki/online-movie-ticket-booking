@@ -57,14 +57,6 @@ This project follows the complete software development life cycle:
 
 ---
 
-## 👨‍💻 Team Members
-
-- Venkat Aditya Vellanki – RA2111003011799  
-- Paras Pal – RA2111003011818  
-- M.V. Manish – RA2111003011819
-
----
-
 ## 📚 Course Information
 
 - **Course Name:** Software Engineering and Project Management  
